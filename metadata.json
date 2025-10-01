@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Remix Studio",
+  "description": "A web application that demonstrates a multi-stage AI pipeline for remixing and generating creative videos based on user themes.",
+  "requestFramePermissions": []
+}
